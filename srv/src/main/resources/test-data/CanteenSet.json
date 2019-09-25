@@ -1,0 +1,10 @@
+[
+    {
+        "CanteenID": "201",
+        "Location": "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    },
+    {
+        "CanteenID": "202",
+        "Location": "XYZ"
+    }
+]
